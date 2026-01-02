@@ -1,0 +1,16 @@
+{
+    "864351364771610645": {
+        "balance": 177,
+        "bank": 0,
+        "bankLimit": 1000,
+        "debt": 0,
+        "education": 0,
+        "lastDaily": "2026-01-02T08:29:15.358Z",
+        "lastWork": null,
+        "lastSteal": null,
+        "lastCrime": null,
+        "lastPayment": "2026-01-02T08:29:15.353Z",
+        "arrested": false,
+        "hunterActive": false
+    }
+}
